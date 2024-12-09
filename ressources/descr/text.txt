@@ -1,0 +1,81 @@
+Home  
+A propos 
+Boutique 
+Comment jouer 
+Contact 
+Faire un don
+-----------------------------------------------------------
+Galsen natin roleplay
+PLONGEZ DANS L'EXTRAORDINAIRE, VIVEZ LE RÊVE SÉNÉGALAIS !
+Êtes-vous prêt à transformer vos idées en légendes ? Bienvenue dans GalSen Nation RP, l'univers où chaque choix écrit une nouvelle page de votre histoire. Ici, tout est possible : devenez un héros, 
+un entrepreneur, ou même le roi des rues. Vous êtes aux commandes de votre destin dans un monde où les interactions 
+ne sont pas juste des mots, mais des opportunités de briller.
+🌟 Pourquoi nous rejoindre ?
+Authenticité Culturelle : Une immersion unique dans la richesse et la diversité sénégalaise.
+Communauté Dynamique : Que vous soyez débutant ou expert, nous sommes là pour vous guider.
+Scénarios Illimités : Créez, collaborez, et laissez libre cours à votre imagination.
+💥 C'est votre moment. Rejoignez la communauté qui redéfinit le Roleplay au Sénégal. Ici, chaque instant est une aventure. ⬇️ Plongez maintenant et devenez une légende ⬇️
+------------------------------------------------------------
+Teranga
+Vivez l’hospitalité sénégalaise, la Teranga, en accueillant chaleureusement chaque nouveau membre. Notre serveur est un lieu où le respect et la convivialité sont au cœur de chaque interaction.
+
+Baobab
+Symbole de force et de longévité, le baobab représente la résilience et la sagesse. Notre serveur est un lieu où les joueurs peuvent grandir, apprendre et tisser des liens durables, tout en s’inspirant de la richesse culturelle du Sénégal. Le baobab est notre emblème, un rappel de notre engagement à bâtir une communauté solide et unie.
+
+Lion
+Symbole de courage et de leadership, le lion incarne la force et la noblesse. Sur notre serveur, chaque joueur est encouragé à faire preuve de bravoure et à prendre des initiatives, tout en respectant les autres membres de la communauté.
+--------------------------------------------------------------
+à propos de GalSen nation rôleplay 
+Bienvenue sur Galsen Nation Roleplay, un serveur GTA RP unique en son genre, conçu pour rassembler une communauté passionnée et diversifiée autour d'une expérience immersive et authentique.
+Ici, chaque joueur a l'opportunité de créer son histoire dans un univers richement inspiré de la culture sénégalaise et de ses valeurs de Teranga (hospitalité). Notre serveur vous offre un équilibre parfait entre réalisme et fun, avec des scénarios captivants, des métiers variés, des gangs redoutés, des forces de l'ordre déterminées et une économie dynamique.
+Ce qui fait notre différence :
+Authenticité culturelle : Plongez dans un cadre RP inspiré de la vie quotidienne et des traditions locales, avec une touche internationale.
+Communauté active et bienveillante : Un espace où le respect et la collaboration sont au cœur de chaque interaction.
+Systèmes innovants : Des scripts sur mesure, une gestion d’économie réaliste, et des activités exclusives pour enrichir vos aventures.
+Rôles variés : Devenez entrepreneur, membre de l'EMS, officier de police, chef de gang ou simple citoyen aspirant à faire sa place.
+Nous croyons que chacun mérite une place dans cet univers, que vous soyez un habitué du RP ou un nouveau venu curieux de découvrir cet incroyable monde.
+Rejoignez-nous dès maintenant et faites partie de l'aventure Galsen Nation Roleplay, là où chaque décision façonne votre destin ! 🚀
+#VivezVotreHistoire
+-----------------------------------------------------------------
+temoignages
+Sur notre serveur 
+
+“The best Webflow Templates”
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure sint amet occaecat cupidatat non proident
+Sophia Moore
+CEO at Webflow Agency
+-----------------------------------------------------------------
+Contactez-nous !!!
+Pour plus d’informations , remplissez ce formulaire 
+
+
+
+[TYPO]
+    MENU:
+    font-family= Outfit;
+    font-weight= 700;
+
+    H2:
+    font-family= "Passero One";
+    font-weight= 400;
+    letter-spacing= 0.1em;
+
+    P:
+    font-family= "Protest Strike";
+    font-weight= 400;
+
+    star; H1:
+    font-family= Outfit;
+    font-weight= 700;
+
+    temoignages card:
+    font-family= DM Sans;
+    font-weight= 400;
+
+    FOOTER: 
+    font-family= Poppins;
+    font-weight= 400;
+
+
+
+
